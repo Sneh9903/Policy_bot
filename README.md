@@ -61,3 +61,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/Sneh9903/Policy_bot.git
 cd Policy_bot
+
+```
+## 🚀 Usage
+
+```bash
+uvicorn main:app --reload
+```
+
