@@ -1,4 +1,4 @@
-# HackRX RAG API
+# PolicyBot RAG API
 
 This project provides a **Retrieval-Augmented Generation (RAG) API** built with **FastAPI**.  
 It is designed to answer questions based on the content of a provided PDF or DOCX document.  
