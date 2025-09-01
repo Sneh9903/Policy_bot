@@ -59,5 +59,5 @@ You can configure the API by editing constants in `main.py` or via environment v
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Sneh9903/Policy_bot.git
+cd Policy_bot
