@@ -2,7 +2,7 @@
 
 This project provides a **Retrieval-Augmented Generation (RAG) API** built with **FastAPI**.  
 It is designed to answer questions based on the content of a provided PDF or DOCX document.  
-The system uses a **hybrid retrieval approach**, combining sparse & dense search methods to find the most relevant passages before a language model generates a concise answer.
+The system uses a **hybrid retrieval approach**, combining sparse and dense search methods to find the most relevant passages before a language model generates a concise answer.
 
 ---
 
